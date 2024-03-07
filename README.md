@@ -1,3 +1,3 @@
-# car_rental
+# UI Challenges
 
 A new Flutter project.
