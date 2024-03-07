@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:ui_challenges/car_rental/cat_card.dart';
 
 import 'rent_car_card.dart';
