@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ui_challenges/buy_shoes/add_card_page.dart';
+import 'package:ui_challenges/online_course/login_page.dart';
 
 void main() {
   runApp(const MainApp());
@@ -10,9 +10,9 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: AddCardPage()
+      home: LoginPage()
     );
   }
 }

@@ -20,4 +20,5 @@ flutter:
   assets:
     - assets/car_rental/
     - assets/buy_shoes/
+    - assets/online_course/
 
