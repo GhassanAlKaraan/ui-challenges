@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:ui_challenges/buy_shoes/widgets/my_textfield.dart';
 
 class AddCardPage extends StatelessWidget {
