@@ -1,7 +1,6 @@
 # UI Challenges
 
-This repository contains a collection of Flutter applications that I have developed.
+This repository contains a collection of UIs that I have coded With Flutter.
 
 Each application is organized within the `/lib/` folder.
 
-Currently, I'm in the process of merging them into a single app, enabling users to seamlessly navigate through all the pages.
